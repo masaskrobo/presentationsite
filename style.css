@@ -64,8 +64,8 @@ width: 80px; ;
 
     @media only screen and (max-width:768px) {
       .hamburger{ display: block;
-        margin-right:15px
-      } 
+                margin-right:15px
+        } }
       header nav{
           display:none;
           position: absolute;
@@ -82,5 +82,33 @@ width: 80px; ;
           border-bottom:solid 1px #e5e5e5 ;
           padding:5px 0px 5px 0px;
       }
+       
+    .left-page{
+        background-color: rgb(226, 226, 120);
+        width: 400px;
+        height: 800px;
+        
+        
+
     }
+    .right-page{
+        background-color:white;
+        width:740px;
+        height:800px ;
+    }
+  .btn{
+      width:70px;
+      height: 20px;
+      background-color: black;
+      margin-left: 120px;
+      
+  }
+
+     
+  
+
+
+
+
+
 
